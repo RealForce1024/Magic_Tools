@@ -20,3 +20,7 @@ F8 单步执行
 
 ctrl+space 调出代码提示
 alt+cmd+m 抽取出方法
+cmd+1
+# 自定义
+cmd+4 close tab
+cmd+5 open terminal 
