@@ -24,3 +24,6 @@ cmd+1
 # 自定义
 cmd+4 close tab
 cmd+5 open terminal 
+cmd+7 查看类的层次结构
+ctrl+alt+h 查看方法或类的被调用情况
+
