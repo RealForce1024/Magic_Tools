@@ -28,3 +28,4 @@ cmd+7 查看类的层次结构
 ctrl+alt+h 查看方法或类的被调用情况
 
 ctrl+shift+j 合并行
+cmd+alt+j [sourrend with]
