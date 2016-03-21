@@ -14,6 +14,8 @@ cmd + 1 激活资源窗口
 esc 快速回到编辑栏
 cmd + shift + delete 回到之前的编辑处
 shift + esc 退出激活的窗口
+cmd + '+/-' 折叠/展开段落代码
+cmd + shift + '+/-' 全文代码折叠与展开
 
 #调试
 alt+F8(fn) //调试表达式
