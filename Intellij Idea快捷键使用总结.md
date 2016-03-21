@@ -1,3 +1,4 @@
+cmd + alt + t // like vs code  region
 cmd + p 方法参数提示
 cmd + enter 向上插入一行
 shift + enter 向下插入一行
